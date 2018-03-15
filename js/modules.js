@@ -1,0 +1,1 @@
+var HeaderApp = angular.module('HeaderApp', []);
